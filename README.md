@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner.png" alt="Awesome JEV Papers, research on System One decision models: 51 papers, 29 on Jev" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/jev-papers-dark.png">
+  <img src="assets/jev-papers.png" alt="Awesome JEV Papers, research on System One decision models: 51 papers, 29 on Jev" width="100%">
 </picture>
 
 # Awesome JEV Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
