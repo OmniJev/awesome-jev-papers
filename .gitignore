@@ -1,2 +1,5 @@
 .build/
 node_modules/
+site/dist/
+site/live.json
+__pycache__/

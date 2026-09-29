@@ -9,6 +9,7 @@
 
 > Research papers on Jev, TypeSafe's System One model, and the open models built in its shape.
 
+[![Website](https://img.shields.io/badge/website-JEV%20Papers-FF5C1A?style=flat-square&logo=githubpages&logoColor=white)](https://omnijev.github.io/awesome-jev-papers/)
 [![Gallery](https://img.shields.io/badge/gallery-omnijev.github.io-2F80ED?style=flat-square&logo=githubpages&logoColor=white)](https://omnijev.github.io/awesome-jev-gallery/)
 
 ![Papers](https://img.shields.io/badge/papers-51-B31B1B?style=flat-square&logo=arxiv&logoColor=white)
