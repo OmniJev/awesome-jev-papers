@@ -173,5 +173,5 @@ footer .fwin a { text-underline-offset: 3px; }
   dialog h2 { font-size: 19px; }
 }
 
-:root{--s-survey-ecosystem:#0ea5e9;--s-open-decision-models:#7c5ce6;--s-jev-as-judge-classifier:#f59e0b;--s-robustness-attacks:#e5484d;--s-agents-systems:#2f80ed;--s-applications:#12a150;--s-foundations:#8b5e34;}
-:root[data-theme="dark"]{--s-survey-ecosystem:#5cc8f5;--s-open-decision-models:#a78bfa;--s-jev-as-judge-classifier:#fbbf4d;--s-robustness-attacks:#ff7b80;--s-agents-systems:#6fa8ff;--s-applications:#4fd18b;--s-foundations:#c9955f;}
+:root{--s-survey-position:#0ea5e9;--s-open-decision-models:#7c5ce6;--s-benchmarks-evaluations:#f59e0b;--s-jev-as-judge-classifier:#e5484d;--s-calibration-consistency:#2f80ed;--s-robustness-attacks:#12a150;--s-agents-systems:#8b5e34;--s-applications:#be2d6e;}
+:root[data-theme="dark"]{--s-survey-position:#5cc8f5;--s-open-decision-models:#a78bfa;--s-benchmarks-evaluations:#fbbf4d;--s-jev-as-judge-classifier:#ff7b80;--s-calibration-consistency:#6fa8ff;--s-robustness-attacks:#4fd18b;--s-agents-systems:#c9955f;--s-applications:#f472b6;}
