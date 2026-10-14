@@ -4,7 +4,7 @@ This list holds research papers only: arXiv preprints, conference and journal pa
 
 ## What belongs here
 
-A paper belongs here when Jev, or a model with Jev's shape (declared options in, one calibrated probability per option out, no generated text), is the subject, the method, or a measured system. The Foundations section holds earlier papers that the System One idea builds on or is measured against.
+A paper belongs here when Jev, or a model with Jev's shape (declared options in, one calibrated probability per option out, no generated text), is the subject, the method, or a measured system. The list starts on 15 September 2026, the day Jev was released.
 
 ## Entry format
 
